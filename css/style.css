@@ -579,6 +579,16 @@ H5 {
   margin-bottom: 11rem;
 }
 
+.my-24 {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+
+.my-32 {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+}
+
 .mb-0 {
   margin-bottom: 0px;
 }
@@ -605,6 +615,14 @@ H5 {
 
 .mt-16 {
   margin-top: 4rem;
+}
+
+.mt-20 {
+  margin-top: 5rem;
+}
+
+.mb-20 {
+  margin-bottom: 5rem;
 }
 
 .flex {
